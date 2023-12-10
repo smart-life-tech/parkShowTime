@@ -1,0 +1,95 @@
+{
+    "rides": [
+        {
+            "id": 10898,
+            "name": "Bavarian Dancers",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 12046,
+            "name": "Bavarian Dancers",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 10899,
+            "name": "Breakout at Bozo's",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 11131,
+            "name": "Creek Freak Massacre",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 12053,
+            "name": "Danger Goat - Oompah Band",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 11136,
+            "name": "Graduation Sucks! Flash Mob",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 11145,
+            "name": "LEGACY Fire \\u0026 Light Display",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 12354,
+            "name": "Lucifer's Lair Hell's Angels Show",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 12355,
+            "name": "Lucifer's Lair Live Band",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 11133,
+            "name": "NEW! The Terminal",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 10895,
+            "name": "Oompah Band",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 12048,
+            "name": "The Battling Yodellers",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        },
+        {
+            "id": 11750,
+            "name": "Thrillmakers Show",
+            "is_open": false,
+            "wait_time": 0,
+            "last_updated": "2023-11-09T23:06:57.000Z"
+        }
+    ]
+}
