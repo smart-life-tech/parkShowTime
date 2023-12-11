@@ -78,7 +78,8 @@ class DisneyWaitTimesApp:
 
         # Extract names from the image filenames
         image_names = [os.path.splitext(file)[0] for file in image_files]
-
+        # Remove the first two characters from each element in the list
+        image_names = [name[2:] for name in image_names]
         # Display the extracted image names
         print(image_names)
         ride_names = ["Bavarian Dancers", "Breakout at Bozo's", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre"]
