@@ -1,4 +1,4 @@
-import tkinter as tk
+import tkinter as tk# install all
 from PIL import Image, ImageTk, ImageDraw, ImageFont
 import requests
 import json
