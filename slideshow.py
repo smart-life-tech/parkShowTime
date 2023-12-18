@@ -22,7 +22,7 @@ class DisneyWaitTimesApp:
         self.wait_time_text=""
                 # Get the full path to the font file
         script_directory = os.path.dirname(os.path.abspath(__file__))
-        font_path = os.path.join(script_directory, "font.ttf")
+        font_path = os.path.join(script_directory, "font.TTF")
 
         # Create a font with the specified size
         self.font = ImageFont.truetype(font_path, 54)
@@ -30,7 +30,7 @@ class DisneyWaitTimesApp:
         
         # Initialize pygame mixer
         pygame.mixer.init()
-
+        #pygame.mixer.init(driver='alsa', device='hw:0,0')  # Replace with your HDMI audio device
         # Set up background music
         pygame.mixer.music.load(self.music_path)
         pygame.mixer.music.set_volume(0.5)  # Adjust volume as needed
