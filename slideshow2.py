@@ -68,7 +68,7 @@ class DisneyWaitTimesApp:
         self.update_slideshow()
 
     def get_wait_time_by_name(self,park_data, attraction_name):
-        for i in range(3):
+        for i in range(5):
             print(park_data[i])
             #json.dumps(park_data[i], indent=2)
             #self.data = json.loads(park_data[i])
