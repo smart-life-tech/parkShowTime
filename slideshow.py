@@ -81,9 +81,9 @@ class DisneyWaitTimesApp:
         # Remove the first two characters from each element in the list
         image_names = [name[2:] for name in image_names]
         # Display the extracted image names
-        print(image_names)
+        #print(image_names)
         ride_names = ["Bavarian Dancers", "Breakout at Bozo's", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre", "Creek Freak Massacre"]
-        print(len(ride_names))
+        #print(len(ride_names))
         if self.image_counter>=len(ride_names):
             print("setting to zero")
             self.image_counter=0
