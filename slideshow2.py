@@ -193,7 +193,7 @@ if __name__ == "__main__":
 
     root = tk.Tk()
     root.geometry("1920x1080")  # Adjust window size as needed
-    #root.attributes("-fullscreen", True)
+    root.attributes("-fullscreen", True)
 
     app = DisneyWaitTimesApp(root, image_folder, music_path)
 
